@@ -1,2 +1,4 @@
 # BackendStudyBuddy
-Thesis
+Backend repo for thesis
+
+
